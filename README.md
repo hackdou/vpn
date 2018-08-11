@@ -1,5 +1,4 @@
-# 一键部署 v2ray 到 heroku (已经失效，请勿部署)
-
+# 一键部署 v2ray 到 heroku https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fhackdou%2Fv2ray-heroku%2Fedit%2Fmaster%2FREADME.md&template=https%3A%2F%2Fgithub.com%2Fhackdou%2Fv2ray-heroku%2Fedit%2Fmaster%2FREADME.md
 1.部署时配置 v2ray core 的版本、Vmess协议的UUID（"alterId"默认为64）和连接缓存。
 
 2.服务端部署后，应 open app ，显示 Bad Request，表示部署成功。
